@@ -14,19 +14,15 @@ Treinamento dos modelos: os modelos foram treinados utilizando os dados de trein
 Avaliação dos modelos: a acurácia, precisão, recall e F1-score foram utilizados como métricas de avaliação dos modelos.
 Os resultados obtidos mostraram que o modelo SVM+BOW obteve a melhor performance, com uma acurácia de 0,88 e um F1-score de 0,88. O modelo SVM+EMBEDDING obteve uma performance intermediária, com uma acurácia de 0,78 e um F1-score de 0,80. Já o modelo BERT obteve a pior performance, com uma acurácia de 0,64 e um F1-score de 0,77.
 
-# requirements
-## pip install Selenium
-## pip install  transformers
-## pip install sklearn
-## pip install spacy==3.5
-## python -m spacy download en_core_web_sm
-## pip install json
-## pip install tensorflow
-## pip install collections
-## pip install numpy 
-## pip install pandas
-pip install gensim
-pip install nltk
-pip install string
-pip install matplotlib
-Web Driver for chrome : https://chromedriver.chromium.org/downloads
+# Requiriments
+> pip install selenium
+> pip install transformers
+> pip install scikit-learn
+> pip install spacy==3.5
+> pip install tensorflow
+> pip install numpy 
+> pip install pandas
+> pip install gensim
+> pip install nltk
+> pip install matplotlib
+
