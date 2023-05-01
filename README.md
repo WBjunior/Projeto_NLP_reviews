@@ -16,13 +16,23 @@ Os resultados obtidos mostraram que o modelo SVM+BOW obteve a melhor performance
 
 # Requiriments
 > pip install selenium
+
 > pip install transformers
+
 > pip install scikit-learn
+
 > pip install spacy==3.5
+
 > pip install tensorflow
+
 > pip install numpy 
+
 > pip install pandas
+
 > pip install gensim
+
 > pip install nltk
+
 > pip install matplotlib
+
 
