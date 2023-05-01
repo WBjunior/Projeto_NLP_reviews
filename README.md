@@ -1,5 +1,7 @@
 # Análise de Sentimentos de Reviews de Kindles da Amazon Utilizando SVM+BOW, SVM+EMBEDDING e BERT
 
+Link para apresentação: https://youtu.be/apbQ0GekO8w
+
 Este projeto tem como objetivo realizar a análise de sentimentos em reviews de Kindles da Amazon, utilizando diferentes abordagens de processamento de linguagem natural (NLP).
 
 Para isso, foram utilizados três modelos de aprendizado de máquina diferentes: SVM+BOW, SVM+EMBEDDING e BERT. O SVM (Support Vector Machine) é um algoritmo de aprendizado de máquina que pode ser utilizado tanto para classificação quanto para regressão. O BOW (Bag-of-Words) é uma técnica simples de representação de texto que considera a frequência das palavras em um documento. O EMBEDDING é uma técnica mais avançada de representação de texto, que permite capturar o contexto semântico das palavras em um texto. Já o BERT (Bidirectional Encoder Representations from Transformers) é um modelo pré-treinado de linguagem natural que permite realizar tarefas de NLP, como a análise de sentimentos, com alta precisão.
